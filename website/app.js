@@ -23,3 +23,4 @@ const postData = async ( url = '', data = {})=>{
 
 
 // TODO L3 Set 3-Call Function
+//postData('/addAnimal', {animal:'Tiger'});
